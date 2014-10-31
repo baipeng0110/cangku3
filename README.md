@@ -9,4 +9,6 @@ int main()
 	return 0;
 }
 git@github.com:baipeng0110/cangku3.git
-hello 
+git@gi
+git@gi
+git@gi
